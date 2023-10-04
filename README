@@ -1,0 +1,5 @@
+First Step: Trimming
+[As of now trimming to Q20; may want to up quality threshold]
+
+1. Generate list of fastq files (with path from working directory).
+
